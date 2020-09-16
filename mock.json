@@ -1,0 +1,663 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "中国",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国",
+                    "reading": "ちゅうごく"
+                },
+                {
+                    "word": "中国",
+                    "reading": "ちゅうこく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "China"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "ちゅうごく"
+                    ],
+                    "see_also": [
+                        "中華人民共和国"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chūgoku region of western Honshu (incl. Okayama, Hiroshima, Shimane, Tottori and Yamaguchi prefectures)"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [
+                        "ちゅうごく"
+                    ],
+                    "see_also": [
+                        "中国地方"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "central part of a country",
+                        "main region"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "ちゅうごく"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "province of the second lowest rank (ritsuryo system)"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chuugoku"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": true,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "中国人",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国人",
+                    "reading": "ちゅうごくじん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chinese person"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinese people"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chinese people” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chinese_people?oldid=495232132"
+                        },
+                        {
+                            "text": "Read “中国人” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国人?oldid=42731767"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Chinese_people"
+            }
+        },
+        {
+            "slug": "中国語",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国語",
+                    "reading": "ちゅうごくご"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chinese (language)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinese language"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chinese language” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chinese_language?oldid=494871625"
+                        },
+                        {
+                            "text": "Read “中国語” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国語?oldid=42670288"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Chinese_language"
+            }
+        },
+        {
+            "slug": "中国地方",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国地方",
+                    "reading": "ちゅうごくちほう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chūgoku region of western Honshu (incl. Okayama, Hiroshima, Shimane, Tottori and Yamaguchi prefectures)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chuugokuchihou"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chūgoku region"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chūgoku region” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chūgoku_region?oldid=494751276"
+                        },
+                        {
+                            "text": "Read “中国地方” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国地方?oldid=42691910"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": true,
+                "dbpedia": "http://dbpedia.org/resource/Chūgoku_region"
+            }
+        },
+        {
+            "slug": "中国共産党",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国共産党",
+                    "reading": "ちゅうごくきょうさんとう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chinese Communist Party"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Communist Party of China"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Communist Party of China” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Communist_Party_of_China?oldid=495322173"
+                        },
+                        {
+                            "text": "Read “中国共産党” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国共産党?oldid=42621477"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Communist_Party_of_China"
+            }
+        },
+        {
+            "slug": "中国学",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国学",
+                    "reading": "ちゅうごくがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sinology",
+                        "Chinese studies"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sinology"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sinology” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sinology?oldid=492089596"
+                        },
+                        {
+                            "text": "Read “中国学” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国学?oldid=41617301"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Sinology"
+            }
+        },
+        {
+            "slug": "中国大陸",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国大陸",
+                    "reading": "ちゅうごくたいりく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mainland China"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mainland China"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Mainland China” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mainland_China?oldid=491014765"
+                        },
+                        {
+                            "text": "Read “中国大陸” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国大陸?oldid=42647850"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Mainland_China"
+            }
+        },
+        {
+            "slug": "中国茶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国茶",
+                    "reading": "ちゅうごくちゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chinese tea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinese tea culture"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chinese tea culture” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chinese_tea_culture?oldid=489664061"
+                        },
+                        {
+                            "text": "Read “中国茶” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国茶?oldid=42178375"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Chinese_tea_culture"
+            }
+        },
+        {
+            "slug": "中国民主化運動",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国民主化運動",
+                    "reading": "ちゅうごくみんしゅかうんどう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pro-democracy movement in China"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinese democracy movement"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chinese democracy movement” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chinese_democracy_movement?oldid=495313019"
+                        },
+                        {
+                            "text": "Read “中国民主化運動” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国民主化運動?oldid=41929394"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Chinese_democracy_movement"
+            }
+        },
+        {
+            "slug": "中国国民党",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中国国民党",
+                    "reading": "ちゅうごくこくみんとう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Kuomintang (Chinese Nationalist Party)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "台湾国民党"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kuomintang"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Kuomintang” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Kuomintang?oldid=495167925"
+                        },
+                        {
+                            "text": "Read “中国国民党” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/中国国民党?oldid=42154308"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Kuomintang"
+            }
+        }
+    ]
+}
