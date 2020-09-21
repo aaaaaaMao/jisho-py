@@ -1,4 +1,6 @@
 import sys
+import json
+
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QPushButton, 
     QVBoxLayout, QHBoxLayout, QLineEdit, 
@@ -8,6 +10,7 @@ from PyQt5.QtCore import QStringListModel
 from PyQt5.QtGui import QFont, QIcon
 
 from search import search_keyword
+from storage import Word
 
 class Window(QWidget):
 
@@ -49,6 +52,7 @@ class Window(QWidget):
         self.setWindowIcon(QIcon('logo.png'))
 
         self.initUI()
+        self.initWordStorage()
 
     def initUI(self):
 
@@ -129,12 +133,13 @@ class Window(QWidget):
         self.content_list_view.setModel(self.content_list_model)
 
     def showDetail(self, item):
-        detail = self.content_list[item.row()]
-        # QMessageBox.information(self, 'test', detail)
-        self.kana_label.setText(detail['reading'])
-        self.kanji_label.setText(detail['word'])
-        self.jlpt_label.setText(detail['jlpt'])
-        self.senses_list = detail['senses']
+        self.detail = self.content_list[item.row()]
+        _detail = self.detail
+
+        self.kana_label.setText(_detail['reading'])
+        self.kanji_label.setText(_detail['word'])
+        self.jlpt_label.setText(_detail['jlpt'])
+        self.senses_list = _detail['senses']
         self.senses_list_model.setStringList(self.senses_list)
         self.senses_list_view.setModel(self.senses_list_model)
         return
@@ -145,6 +150,7 @@ class Window(QWidget):
         self.content_list_model.setStringList(self.content_list)
         self.content_list_view.setModel(self.content_list_model)
         
+        self.detail = None
         self.kana_label.setText('')
         self.kanji_label.setText('')
         self.jlpt_label.setText('')
@@ -153,6 +159,11 @@ class Window(QWidget):
         self.senses_list_view.setModel(self.senses_list_model)
 
     def addToMyDictionary(self):
+
+        if not self.kana_label.text():
+            self.errorMsg('Empty word!')
+            return
+
         reply = QMessageBox.question(
             self,
             'Message',
@@ -162,11 +173,29 @@ class Window(QWidget):
         )
 
         if reply == QMessageBox.Yes:
+            try:
+                self.wordStorage.save(
+                    self.kana_label.text(),
+                    self.kanji_label.text(),
+                    json.dumps(self.detail)
+                )
+            except Exception as e:
+                print(e)
+                self.errorMsg('Failed add word!')
             print('Yes')
         else:
             print('No')
         return
 
+    def initWordStorage(self):
+        self.wordStorage = Word()
+
+    def errorMsg(self, msg):
+        QMessageBox.warning(
+        self,
+        'Warning',
+        msg
+        )
 
 def main():
 
