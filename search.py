@@ -13,6 +13,7 @@ def search_keyword(keyword, mock=False):
         data = json.loads(response.text)
         if len(data['data']) != 0:
             return format_data(data['data'])
+        return []
 
 def format_data(data):
     result = []
